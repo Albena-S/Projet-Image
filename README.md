@@ -5,7 +5,6 @@
 
 ## Ressources
 [Article Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047.pdf)
-https://arxiv.org/pdf/2009.07047.pdf
 <!-- ## Description -->
 
 ## Code hébergé sur Google Colab 
