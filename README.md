@@ -6,11 +6,13 @@
 
 # Résultats
 
-![Image originale](Jupyter/images/woman.png "Image ancienne dégradée")
-![Image restaurée](Jupyter/images/woman.png "Image ancienne réstaurée")  
-
 ![Image originale](Jupyter/images/14.png "Image dégradée")
 ![Image restaurée](Jupyter/images/14_rest.png "Image réstaurée")
+
+
+![Image originale](Jupyter/images/woman.png "Image ancienne dégradée")
+![Image restaurée](Jupyter/images/woman_restored.png "Image ancienne réstaurée")  
+
 
 ## Interface
 Lancez le fichier ```Jupyter/UI.ipynb```
