@@ -18,7 +18,7 @@
 Lancez le fichier ```Jupyter/UI.ipynb```
 
 
-![Interface](Jupyter/images/interface.png "L'interface")
+![Interface](Jupyter/images/Interface.png "L'interface")
   
   
   
