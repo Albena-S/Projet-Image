@@ -6,6 +6,9 @@
 
 # Résultats
 
+[Vidéo Youtube](https://www.youtube.com/shorts/0nfivErspr0)
+
+
 ![Image originale](Jupyter/images/14.png "Image dégradée")
 ![Image restaurée](Jupyter/images/14_rest.png "Image réstaurée")
 
